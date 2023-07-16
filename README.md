@@ -28,7 +28,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/sumit-bhardwaz-53829117b/](https://www.linkedin.com/in/sumit-bhardwaz-53829117b/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sumit-blue?style=flat&logo=Linkedin&logoColor=white)]([Link](https://www.linkedin.com/in/sumit-bhardwaz-53829117b/))
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -22,8 +22,8 @@
 </div>
 
 ### Javascript Projects 
-1. Drum Kit [Live Link](https://javascript-projects-drum-kit.vercel.app/) [Code](https://github.com/Bhardwaz/Javascript-Projects/tree/main/01%20-%20JavaScript%20Drum%20Kit)
-2. Clock [Live Link](https://js-clock-navy.vercel.app/) [Code](https://github.com/Bhardwaz/JS-Clock)
+1. Drum Kit [Live-Link](https://javascript-projects-drum-kit.vercel.app/) | [Code](https://github.com/Bhardwaz/Javascript-Projects/tree/main/01%20-%20JavaScript%20Drum%20Kit)
+2. Clock [Live-Link](https://js-clock-navy.vercel.app/) | [Code](https://github.com/Bhardwaz/JS-Clock)
 
 
 :man_technologist: About Me 

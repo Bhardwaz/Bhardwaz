@@ -21,6 +21,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### Javascript Projects 
+1. Drum Kit [Live Link](https://javascript-projects-drum-kit.vercel.app/)
+
 
 :man_technologist: About Me 
 : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.

@@ -24,10 +24,12 @@
 1. Drum Kit [Live-Link](https://javascript-projects-drum-kit.vercel.app/) | [Code](https://github.com/Bhardwaz/Javascript-Projects/tree/main/01%20-%20JavaScript%20Drum%20Kit)
 2. Clock [Live-Link](https://js-clock-navy.vercel.app/) | [Code](https://github.com/Bhardwaz/JS-Clock)
 
+### I Write Articles
+[![Sumit Bhardwaj](https://github-readme-medium.vercel.app/?username=sumitbhardwaj)](https://medium.com/@sumitbhardwaj106)
 
 :man_technologist: About Me 
 : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m looking for my first job
 
 - :seedling: Exploring Technical Content Writing.
 

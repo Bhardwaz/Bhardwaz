@@ -37,23 +37,16 @@ Welcome to my GitHub profile! I'm a **full-stack developer** with experience in 
 
 ---
 
-### 🏆 **Certifications**
-- **AWS Cloud Practitioner**  
-- **Advanced React and Redux** - Coursera  
-- **Data Structures and Algorithms** - Coding Ninjas  
-
----
-
 ### 📊 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwaz&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwaz&layout=compact&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwaz&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
 ### 📬 **Connect with Me**
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/bhardwaz)  
+- **Email**: [your.email@example.com](mailto:sumitbhardwaj106@gmail.com)  
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
